@@ -1,0 +1,39 @@
+Sales Revenue Analysis Dashboard
+
+ Project Description
+
+This project aims to analyze sales and revenue data using an interactive dashboard. The dashboard provides insights into sales performance, revenue trends, and top-performing products.
+
+Objectives
+
+* Analyze sales data efficiently.
+* Monitor key performance indicators (KPIs).
+* Identify revenue trends over time.
+* Compare product and regional performance.
+* Support data-driven decision making.
+
+ Features
+
+* Data import from Excel/CSV.
+* KPI visualization.
+* Revenue trend analysis.
+* Product-wise sales analysis.
+* Region-wise revenue analysis.
+* Interactive filters and slicers.
+
+Tools Used
+
+* Power BI / Excel
+* CSV Dataset
+* Data Visualization
+
+ Key Metrics
+
+* Total Sales
+* Total Revenue
+* Total Orders
+* Average Revenue per Order
+
+ Conclusion
+
+The dashboard helps users understand sales patterns and business performance through visual reports and analytics.
